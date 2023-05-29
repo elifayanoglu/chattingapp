@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ChattingApp</string>
+    <string name="hos_geldiniz">Hoşgeldiniz</string>
+    <string name="email">Email</string>
+    <string name="parola">Parola</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="kayit">Kayıt Olun!</string>
+    <string name="fotograf_ekleyiniz">Fotoğraf Ekleyiniz</string>
+    <string name="isim">İsim</string>
+    <string name="parolanizi_tekrar_giriniz">Parolanızı tekrar giriniz</string>
+    <string name="select_user">Öğrenci Profilleri</string>
+    <string name="girsi_yili">Giriş Yılı</string>
+    <string name="mezun_yili">Mezun Yılı</string>
+    <string name="telefon_numarasi">Telefon Numarası</string>
+    <string name="ulke">Ülke</string>
+    <string name="sehir">Şehir</string>
+    <string name="lisans">Lisans</string>
+    <string name="firma">Firma</string>
+    <string name="egitim_bilgileri">Eğitim Bilgileri</string>
+    <string name="yuksek_lisans">Yüksek Lisans</string>
+    <string name="doktora">Doktora</string>
+    <string name="guncel_is_bilgileri">Güncel İş Bilgileri</string>
+    <string name="sosyal_medya_hesap_linki">Sosyal medya hesap linki</string>
+    <string name="sosyal_medya_hesabi">Sosyal Medya Hesabı</string>
+    <string name="guncelle">Güncelle</string>
+    <string name="profil_sayfam">Profil Sayfam</string>
+    <string name="profil_duzenle">PROFİL DÜZENLE</string>
+    <string-array name="secenekler">
+        <item>Kalacak Ev/Oda Arıyor</item>
+        <item>Kalacak Ev/Oda Arkadaşı Arıyor</item>
+        <item>Aramıyor</item>
+    </string-array>
+
+</resources>
